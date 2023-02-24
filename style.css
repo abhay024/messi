@@ -1,0 +1,72 @@
+#messi {
+    font-size: 50px;
+    font-weight: 900;
+}
+#quote {
+    font-size: 20px;
+    margin-top: -1px;
+}
+
+.content {
+    font-size: 23px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#nagivate {
+   text-align: center; 
+   margin-top: 20px;   
+}
+  
+.menu{
+    display: inline-block;
+    margin-left: 20px;
+    padding: 8px 15px;
+    font-size: 23px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    background-color:bisque;
+    color:chocolate;
+    border-color:darksalmon;
+    text-decoration: none;
+    text-align: center;
+}
+
+img {
+    width: 550px;
+}
+
+body {
+    background-color:royalblue;
+}
+
+p {
+    color:peachpuff;
+}
+
+h1 {
+    color:#fffb05;
+    font-weight: 900;
+    text-align: center;
+
+}
+
+.pics {
+    width: 300px;
+    height: 300px;
+    margin:10px;
+}
+
+div {
+    text-align: center;
+}
+ 
+
+.image {
+    display: block;
+    margin: 0 auto;
+}
+ 
